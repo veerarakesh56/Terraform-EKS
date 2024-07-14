@@ -1,7 +1,7 @@
 # Terraform-EKS
 A sample repository for provisioning an EKS cluster on AWS using Terraform.
 
-![image](https://github.com/user-attachments/assets/ddd7e99c-9803-47c5-a7be-e952c5fbce08)
+![diagram-export-14-7-2024-7_17_25-pm](https://github.com/user-attachments/assets/e4fefb11-f895-482f-9e36-152d407208cc)
 
 
 ### Install AWS CLI 
